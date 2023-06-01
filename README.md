@@ -22,6 +22,6 @@ Tools:
 R for Data Cleaning, Data manipulation, Data Visualisation, & Data Analysis
 
 Data Set:
-The data set is publicly available on [Kaggle]([url](https://www.kaggle.com/datasets/arashnic/fitbit))
+The data set is publicly available on ([Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit))
 
-Kaggle: [Bellabeat Case Study]([url](https://www.kaggle.com/code/alayelawson/bellabeat-case-study))
+Kaggle: ([Bellabeat Case Study](https://www.kaggle.com/code/alayelawson/bellabeat-case-study))
