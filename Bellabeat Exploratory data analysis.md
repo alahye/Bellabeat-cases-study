@@ -1,10 +1,4 @@
----
-title: "Bellabeat: How Can a Wellness Technology Company Play It Smart? - Case Study Project"
-author: "Alaye Lawson"
-date: "2023-05-30"
----
-
-
+# Bellabeat: How Can a Wellness Technology Company Play It Smart? - Case Study Project
 
 ## Introduction and background
 This is a Capstone Project for the Google Data Analytics Professional Certificate.
