@@ -2,12 +2,8 @@
 title: "Bellabeat: How Can a Wellness Technology Company Play It Smart? - Case Study Project"
 author: "Alaye Lawson"
 date: "2023-05-30"
-output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
-```
 
 
 ## Introduction and background
