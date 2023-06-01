@@ -1,5 +1,5 @@
 # Bellabeat-cases-study
-Exploratory Data Analysis on Bellabeat fitness tracker products using R. Capstone project from Google Data Analytics Professional Certification
+This repository contains an exploratory Data Analysis on Bellabeat fitness tracker products using R. for Google Data Analytics Professional Certification Capstone project
 
 ## Introduction and background
 This is a Capstone Project for the Google Data Analytics Professional Certificate.
